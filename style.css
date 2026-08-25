@@ -1,0 +1,46 @@
+body{
+    background-color: lightgoldenrodyellow
+}
+.Navbar{
+    background-color: lightcoral;
+    text-align: center;
+
+}
+.AboutMe{
+    display: flex;
+    padding: 10px;
+}
+.img{
+
+}
+.aboutme{
+   margin-left: 10%;
+}
+    
+.Projects{
+    display: flex;
+    /* margin: 30%; */
+}
+.project1,.project2,.project3{
+    margin-left: 10%;
+    height: 200px;
+    width: 240px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 2%;
+    background-color: lavenderblush;
+}
+.Skills{
+    background-color: lightcyan;
+    text-align: center;
+}
+.ul{
+    display: flex;
+}
+li{
+    text-align: center;
+}
+.Footer{
+    background-color: lightpink;
+    text-align: center;
+}
